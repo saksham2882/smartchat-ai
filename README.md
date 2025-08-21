@@ -11,8 +11,7 @@ SmartChat AI is a modern, responsive web application that provides an interactiv
 ## ✨ Features
 
 *   **Interactive Chat Interface:** Engage in dynamic conversations with the Gemini AI.
-* **Contextual Chat Understanding:** Uses current chat history to maintain context and generate coherent responses within a session.
-
+*   **Contextual Chat Understanding:** Uses current chat history to maintain context and generate coherent responses within a session.
 *   **Markdown Rendering:** AI responses are beautifully formatted with markdown support, including headings, lists, and more.
 *   **Syntax Highlighting:** Code blocks within AI responses are automatically highlighted for improved readability.
 *   **Copy to Clipboard:** Conveniently copy AI-generated text and code snippets.
